@@ -3,6 +3,5 @@
 
 - 🌱 I’m currently learning **Open Source Society University**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
