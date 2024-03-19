@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Daydream</h1>
 <h3>Nice to meet you.</h3>
-<p>Currently learning:</p> <br>
+<p>Currently learning:</p> 
 <p>React</p> 
 <p>Java</p> 
 <p>Data analysis</p> 
